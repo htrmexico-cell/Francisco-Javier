@@ -1,0 +1,6 @@
+{
+  "name": "GOL MX",
+  "description": "Tu portal deportivo del fútbol mexicano. Noticias de Liga MX, la Selección y el fútbol internacional con resúmenes diarios de IA y alertas de última hora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
